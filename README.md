@@ -1,4 +1,5 @@
 Blog Preview Card
+
 This project is a Frontend Mentor challenge where I created a blog preview card using HTML and CSS. The card includes an image, category button, publication date, post summary, and author information.
 
 🌐 Live Website
